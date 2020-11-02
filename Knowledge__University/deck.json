@@ -1,0 +1,518 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "754e759e-1d5a-11eb-9592-1c1bb5464e43",
+            "deck_config_uuid": "754e7b3e-1d5a-11eb-9592-1c1bb5464e43",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Natural Language Processing",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the first match?<div><br><div>- Regex: <b>[a-z]{3}</b></div><div>- Text: \"<span style=\"color: rgb(32, 33, 34);\"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i>\"</span></div></div>",
+                        "\"<i style=\"\"><font color=\"#202122\">L</font><font color=\"#ff0000\">ore</font><font color=\"#202122\">m ipsum dolor sit amet, consectetur adipiscing elit.</font></i><font color=\"#202122\">\"</font>",
+                        "- [<b>a-z]</b> matches all lowercase letters.<div>- <b>{3}</b> repeats the token before three times.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "PJG>M6F7U+",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the first match?<div><br><div>- Regex:&nbsp;<b>[A-Z]*</b></div><div>- Text: \"<span style=\"color: rgb(32, 33, 34);\"><i>LOREM IPSUM dolor sit amet, consectetur adipiscing elit.</i>\"</span></div></div>",
+                        "\"<i style=\"\"><font color=\"#ff0000\">LOREM</font><font color=\"#202122\"> IPSUM dolor sit amet, consectetur adipiscing elit.</font></i><font color=\"#202122\">\"</font>",
+                        "- [<b>A-Z</b><b>]</b>&nbsp;matches all uppercase letters.<div>-&nbsp;*&nbsp;repeats the previous char or expr zero or more times.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "h2bc,`G??*",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are all matches?<div><br><div>- Regex:&nbsp;<b>[hH]ello|[bB]ye</b></div><div>- Text: \"<i>Hello World! Bye bye World!</i><span style=\"color: rgb(32, 33, 34);\">\"</span></div></div>",
+                        "\"<i><font color=\"#ff0000\">Hello</font> World! <font color=\"#ff0000\">Bye bye</font> World!</i><span style=\"color: rgb(32, 33, 34);\">\"</span>",
+                        "- [<b>hH] and [bB]</b>&nbsp;matches uppercase and lowercase versions of h and b.<div>-&nbsp;<b>|</b> selects the left-hand or the right-hand side.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "nE]62>CJ10",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>What does the following regex do: <b>[^Ss]</b></div></div>",
+                        "It matches everything except '<i>S</i>' and '<i>s</i>'.",
+                        "- <b>[^ ] </b>negates everything within the brackets if caret is first",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "k@;yCl7<ho",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does the following regex do:&nbsp;<b>[e^]</b>",
+                        "It matches either <i>e</i>&nbsp;or <i>^.</i>",
+                        "There is no negation since the caret does not come first in the brackets.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "f08!jQcjL+",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does the following regex do:&nbsp;<b>[^e^]</b><br>",
+                        "It matches everything except <i>e</i>&nbsp;or <i>^.</i>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "kSe`53m,2]",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does the following regex do: <b>a^b</b>",
+                        "It matches literally <i>a^b.</i>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "lCMXi8!rRg",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What other regex is equal to <b>a|b|c</b>?",
+                        "<b>[abc]</b>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "M{[>sT,O^D",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The following regex matches what two words:&nbsp;<b>gupp(y|ies)</b>",
+                        "<b>guppy</b>&nbsp;and <b>guppies</b>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "g*bZts#wF?",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The following regex matches what two words: <b>colou?r</b>",
+                        "<b>color</b>&nbsp;and <b>colour</b>",
+                        "The <b>?</b>&nbsp;makes the previous character or expression optional.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "Ibp6mPfh%$",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which matching word has the fewest characters using the following regex:&nbsp;<b>o*h!</b>",
+                        "<div><b>h!</b></div><div style=\"font-weight: bold;\"><b><br></b></div>Matches:<b> h!</b>, <b>oh!</b>, <b>ooh!</b>, ...",
+                        "The <b>* </b>operator matches zero or more of previous char or expr.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "F{qVR1_l|i",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which matching word has the fewest characters using the following regex:&nbsp;<b>o+h!</b>",
+                        "<div><b>oh!</b><br></div><div><b><br></b></div><div>Matches:<b>&nbsp;</b><b>oh!</b>,&nbsp;<b>ooh!</b>, <b>oooh!</b>, ...<br></div>",
+                        "The <b>+&nbsp;</b>operator matches one or more of previous char or expr.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "tQZCW=hFN]",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which matching word has the most characters using the following regex: <b>a{3,5}</b>",
+                        "<b>aaaaa</b><div><b><br></b></div><div>Matching: <b>aaa</b>, <b>aaaa</b>, <b>aaaaa</b></div>",
+                        "<b>{x,y}</b>: matches exactly x to y many of previous char or expr.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "LU*L^L4<<l",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What words does the following regex match: <b>beg.n</b>",
+                        "Example matches: <b>begin</b>, <b>begun</b>, <b>beg3n</b>, ...",
+                        "<b>. </b>matches any char except <b>\\r</b>&nbsp;(carriage return)",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "xsy:7CQt|{",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>What is the first match?<div><br><div>- Regex:&nbsp;&nbsp;<b>[a-z]$</b></div><div>- Text: \"<span style=\"color: rgb(32, 33, 34);\"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i>\"</span></div></div></div>",
+                        "<div><span style=\"color: rgb(32, 33, 34);\">There is no match (since last character is a point).</span></div>",
+                        "<div><b>[a-z] </b>matches any lowercase character.</div><b>$ </b>anchor that matches the end of line.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "cDLN@=.R)o",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the first match?<div><br><div>- Regex:&nbsp; <b>^[A-Z]</b></div><div>- Text: \"<span style=\"color: rgb(32, 33, 34);\"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i>\"</span></div></div>",
+                        "\"<i style=\"\"><font color=\"#ff0000\">L</font><font color=\"#202122\">orem ipsum dolor sit amet, consectetur adipiscing elit.</font></i><font color=\"#202122\">\"</font>",
+                        "<div><b>$&nbsp;</b>anchor that&nbsp;matches the start of line.<b><br></b></div><div><b>[A-Z]&nbsp;</b>matches any uppercase character.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "b}VGa~[3r^",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does the following regex match: <b>\\.$</b>",
+                        "Points at the end of a line.",
+                        "<b>\\.</b> matches a point. It is not a wildcard pattern/star since it is escaped.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "gWUF][LHT(",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are all matches?<div><br><div>- Regex:&nbsp;<b>\\bthe\\b</b></div><div>- Text: \"<i>the other world\"</i></div></div>",
+                        "\"<i><font color=\"#ff0000\">the</font> other world\"</i>",
+                        "o<font color=\"#ff0000\">the</font>r is not a match since <b>\\b</b> matches word bounderies.<div>A word is any sequence of digits, underscores, or letters.<br></div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "c%U$<Dvg/)",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are all matches?<div><br><div>- Regex:&nbsp;<b>\\Bthe\\B</b></div><div>- Text: \"<i>the other world\"</i></div></div>",
+                        "\"<i>the o<font color=\"#ff0000\">the</font>r world\"</i>",
+                        "<b>\\B</b> matches non-word bounderies.<div>A word is any sequence of digits, underscores, or letters.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Regular Expressions"
+                    ],
+                    "guid": "NfR`2&Y7Jb",
+                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "regex"
+                    ]
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "754c41a2-1d5a-11eb-9592-1c1bb5464e43",
+    "deck_config_uuid": "754c4724-1d5a-11eb-9592-1c1bb5464e43",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "754c4724-1d5a-11eb-9592-1c1bb5464e43",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    30.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Subdeck University",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "754e7b3e-1d5a-11eb-9592-1c1bb5464e43",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    30.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Subdeck University",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "Subdeck for university knowledge.",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": 1592690200139,
+    "name": "Knowledge::University",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "perform-auto-markdown": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Linux Libertine",
+                    "media": [],
+                    "name": "Notes",
+                    "ord": 2,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Context",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Note",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "regex",
+                "nlp"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{Back}}\n\n<hr>\n\n{{#Notes}}\n<center><strong>Notes</strong>:</center>\n<br>\n{{Notes}}\n<hr>\n{{/Notes}}\n<center><strong>Sources</strong>:</center>\n<br>\n{{Source}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n<hr>\n<small>{{Context}}</small>\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
