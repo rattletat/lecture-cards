@@ -4,13 +4,32 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "754e759e-1d5a-11eb-9592-1c1bb5464e43",
-            "deck_config_uuid": "754e7b3e-1d5a-11eb-9592-1c1bb5464e43",
+            "crowdanki_uuid": "b9c1d850-1e96-11eb-85f2-1c1bb5464e43",
+            "deck_config_uuid": "b9c1df4e-1e96-11eb-85f2-1c1bb5464e43",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-1-A.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-1-Q.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-2-A.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-2-Q.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-3-A.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-3-Q.svg",
+                "59ed61aa817b4fa6b17d192526d6aac4-oa-O.svg",
+                "latex-57d6b58a4762eec006956fdb9bf9d593f53b50ac.png",
+                "paste-008994c27ffcb214d822cf62a44a1ecd1b776d6b.jpg",
+                "paste-122faa7a7af7b4d185332bd9b18688c49f32cb1c.jpg",
+                "paste-2d69903949cb96b86957ee856a3a1f779f00d5e7.jpg",
+                "paste-304b1d0a1ccdd7966b5f03df1aa0c52c4320122c.jpg",
+                "paste-37613eeb0b021cc31a0cd7634699e7dc43268fe2.jpg",
+                "paste-44e78aae7fc107f446c3ca772fcbc2750ae61de7.jpg",
+                "paste-abbfdccc78e54ea96b8a3e9da22c33491849c6cf.jpg",
+                "paste-c85082d06ab3f6b79dab205d9c9cf412d706bba4.jpg",
+                "tmptfbbkqh7.png"
+            ],
+            "mid": 1592690200139,
             "name": "Natural Language Processing",
             "notes": [
                 {
@@ -23,7 +42,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "PJG>M6F7U+",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -39,7 +58,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "h2bc,`G??*",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -55,7 +74,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "nE]62>CJ10",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -71,7 +90,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "k@;yCl7<ho",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -87,7 +106,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "f08!jQcjL+",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -103,7 +122,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "kSe`53m,2]",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -119,7 +138,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "lCMXi8!rRg",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -135,7 +154,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "M{[>sT,O^D",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -151,7 +170,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "g*bZts#wF?",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -167,7 +186,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "Ibp6mPfh%$",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -183,7 +202,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "F{qVR1_l|i",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -199,7 +218,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "tQZCW=hFN]",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -215,7 +234,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "LU*L^L4<<l",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -231,7 +250,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "xsy:7CQt|{",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -241,13 +260,13 @@
                     "__type__": "Note",
                     "fields": [
                         "<div>What is the first match?<div><br><div>- Regex:&nbsp;&nbsp;<b>[a-z]$</b></div><div>- Text: \"<span style=\"color: rgb(32, 33, 34);\"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i>\"</span></div></div></div>",
-                        "<div><span style=\"color: rgb(32, 33, 34);\">There is no match (since last character is a point).</span></div>",
+                        "<div><span style=\"color: rgb(32, 33, 34);\">There is no match (since last character is a period).</span></div>",
                         "<div><b>[a-z] </b>matches any lowercase character.</div><b>$ </b>anchor that matches the end of line.",
                         "\"Natural Language Processing\" lecture by Georg Groh",
                         "Regular Expressions"
                     ],
                     "guid": "cDLN@=.R)o",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -263,7 +282,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "b}VGa~[3r^",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -273,13 +292,13 @@
                     "__type__": "Note",
                     "fields": [
                         "What does the following regex match: <b>\\.$</b>",
-                        "Points at the end of a line.",
-                        "<b>\\.</b> matches a point. It is not a wildcard pattern/star since it is escaped.",
+                        "One period at the end of line.",
+                        "<b>\\.</b> matches a period. It is not a wildcard pattern/star since it is escaped.",
                         "\"Natural Language Processing\" lecture by Georg Groh",
                         "Regular Expressions"
                     ],
                     "guid": "gWUF][LHT(",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -295,7 +314,7 @@
                         "Regular Expressions"
                     ],
                     "guid": "c%U$<Dvg/)",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
@@ -311,17 +330,537 @@
                         "Regular Expressions"
                     ],
                     "guid": "NfR`2&Y7Jb",
-                    "note_model_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
                     "tags": [
                         "nlp",
                         "regex"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the <b>fragment</b>&nbsp;word in the following sentence:<br><div><br></div><div><i>I do uh main- mainly business data processing.</i></div>",
+                        "<i>I do uh <b>main-</b> mainly business data processing.</i>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "E@L;-=iT]}",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the <b>filler</b>&nbsp;word in the following sentence:<br><div><br></div><div><i>I do uh main- mainly business data processing.</i></div>",
+                        "<i>I do <b>uh</b> main- mainly business data processing.</i>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "Nc[Cn/}ZZz",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the difference between a <b>Lemma</b>&nbsp;and a <b>Wordform</b>?",
+                        "<b>Lemmas </b>share the same stem, part-of-speech, and the rough word sense.<div>Example: cat and cats = same lemma</div><div><b><br></b></div><div><b>Wordform</b>&nbsp;is the full-inflected surface form.</div><div>Example: cat and cats = different wordforms</div>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "D#KQ,avs@@",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a <b>Corpus</b>?",
+                        "A large and structured set of texts (usually electronically stored and processed).",
+                        "",
+                        "- \"Natural Language Processing\" lecture by Georg Groh<div>-&nbsp;<a href=\"https://en.wikipedia.org/wiki/Text_corpus\">https://en.wikipedia.org/wiki/Text_corpus</a></div>",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "u_ho=(tY5r",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are Word&nbsp;<b>Types</b>&nbsp;in a Corpus?",
+                        "<span style=\"color: rgb(17, 17, 17);\">Refers to an element of the vocabulary&nbsp;</span>V<span style=\"color: rgb(17, 17, 17);\">, i.e.&nbsp;</span><span style=\"color: rgb(17, 17, 17);\">distinct&nbsp;words.</span>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "jzXnP>$vrq",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are Word <b>Tokens</b>?",
+                        "<div><span style=\"color: rgb(17, 17, 17);\">Refers to an instance of a word type in running text.</span></div>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "I6~_J)`bn:",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Herdan's / Heaps' Law</b><div><br></div><div>Models the relationship between the {{c1::number of types \\(\\vert V \\vert\\) }} in a corpus and {{c1::number of token \\(N\\)}}, which follows this power law distribution:</div><div><br></div><div>[$]\\vert V \\vert = {{c2::kN^{\\beta} }}[/$]<br></div>",
+                        "<div>\\(k\\) and \\(\\beta\\) are positive constants, with \\(\\beta\\) being approx. \\(0.7\\) in large corpora.</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "xeu|&)9(fg",
+                    "note_model_uuid": "b9c4ce5c-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Tokenization</b>?",
+                        "T<span style=\"color: rgba(0, 0, 0, 0.84);\">he process of tokenizing or splitting a text into a list of tokens.&nbsp;</span>",
+                        "<span style=\"color: rgba(0, 0, 0, 0.84);\">One can think of token as parts: a word is a token in a sentence, and a sentence is a token in a paragraph.</span>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "DpYU.LYS|s",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are common <b>language-specific</b>&nbsp;Tokenization issues.",
+                        "- French: <i>L'ensemble</i><b style=\"font-style: italic;\">&nbsp;</b>-&gt; one or two token?<div>- German: <i>Lebensversicherungsgesellschaft</i>&nbsp;-&gt; <b>compound splitter</b>&nbsp;is needed.</div><div>- Chinese and Japanese: no spaces between words.</div>",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "qOiyc((7yj",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the problem with <b>rule-based approaches</b> to Tokenization/Nomalization?",
+                        "Although evaluation is fast when using automata, getting all the rules right is a super complex task (word compounds, dialects etc.).",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "x_,}b.HyuV",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the problem with&nbsp;<b>machine-learning approaches</b>&nbsp;to Tokenization/Normalization?",
+                        "It needs a lot of (handcrafted) data, and inter-annotator agreement can be low in manually created corpora.",
+                        "",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "M/K+E2E^7N",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Byte-Pair-Encoding</b> (BPE)?",
+                        "An algorithm originally used for data compression.<div>In NLP applications, it solves the problems of rule- or machine-learning approaches to <b>Tokenization</b> by being data-driven.&nbsp;</div>",
+                        "Because of its data-driven nature, BPE can compositionally represent unknown words.",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "JRH>V2(q<l",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does <b>Byte Pair Encoding</b>&nbsp;(BPE) work?",
+                        "1. Start with words of symbol-vocabulary + end-of-word-character _<div>2. Iteratively merge most frequent pairs of words into new n-gram</div>",
+                        "&lt;Pictures&gt;",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "tf^{}S3F^l",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Text Normalization</b>?",
+                        "The process of transforming text into a single canonical&nbsp;that it might not have had before. Normalizing text before storing or processing it allows for separation of concerns, since input is guaranteed to be consistent before operations are performed on it.&nbsp;",
+                        "<div><u>Examples from text-to-speech:</u><br></div><div>Numbers,<span style=\"color: rgb(32, 33, 34);\"> dates,&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">acronyms&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">and abbreviations&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">are non-standard \"words\" that need to be pronounced differently depending on context.</span></div>",
+                        "<div><a href=\"https://en.wikipedia.org/wiki/Text_normalization\">https://en.wikipedia.org/wiki/Text_normalization</a><br></div>",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "iFwzVSa#O=",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Is there an all-purpose normalization procedure?",
+                        "<b>No.&nbsp;</b>Text normalization requires being aware of&nbsp;<i>what type of text</i>&nbsp;is to be normalized and how it is to be&nbsp;<i>processed afterwards</i>;",
+                        "",
+                        "<div><a href=\"https://en.wikipedia.org/wiki/Text_normalization\">https://en.wikipedia.org/wiki/Text_normalization</a><br></div>",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "L[J$1(Y]$_",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Morphology</b>?",
+                        "<b><font color=\"#202122\">M</font>orphology</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;i</span><span style=\"color: rgb(32, 33, 34);\">s the study of words, how they are formed from smaller meaning-bearing units, and their relationship to other words in the same language.&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">It analyzes the structure of words and parts of words, such as stems, root words, prefixes, and suffixes.</span>",
+                        "",
+                        "<a href=\"https://en.wikipedia.org/wiki/Morphology_(linguistics)\">https://en.wikipedia.org/wiki/Morphology_(linguistics)</a>",
+                        "Linguistics"
+                    ],
+                    "guid": "c6zL<XjZ%&",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are <b>Morphemes</b>?",
+                        "<span style=\"color: rgb(32, 33, 34);\">A&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">morpheme is defined as the <b>minimal meaningful unit of a language</b>.</span>",
+                        "<font color=\"#202122\">A morpheme can be either a <b>stem </b>(core meaning-bearing unit) or an <b>affix</b>&nbsp;(prefixes/suffixes that adhere to stems).</font>",
+                        "<a href=\"https://en.wikipedia.org/wiki/Morphology_(linguistics)\">https://en.wikipedia.org/wiki/Morphology_(linguistics)</a>",
+                        "Linguistics"
+                    ],
+                    "guid": "puvr-HK9bR",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are <b>stems</b>&nbsp;and <b>affixes </b>type of?",
+                        "What are the two subtypes of a <b>morpheme</b>?",
+                        "",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Linguistics"
+                    ],
+                    "guid": "c88j}oONtd",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What method is also called the <i><b>poor man's lemmatization</b></i>?",
+                        "What is&nbsp;<b>stemming</b>&nbsp;also called?",
+                        "",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "Cc%dlQ-&~@",
+                    "note_model_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Stemming</b>?",
+                        "P<span style=\"color: rgb(32, 33, 34);\">rocess of reducing inflected (or sometimes derived) words to their word stem, base or root</span><span style=\"color: rgb(32, 33, 34);\">. The <b>stem need not be identical to the morphological root&nbsp;</b></span><span style=\"color: rgb(32, 33, 34);\">of the word; it is usually sufficient that related words map to the same stem, even if this stem is not in itself a valid root.</span>",
+                        "Stemming is a form of <b>morphological parsing</b>.<div><br></div><div><u>Example</u>:</div><div>for example compressed and compression are both accepted as equivalent to compress</div><div>--</div><div>for exampl compress and compress ar both accept as equival to compress</div>",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "hFjRn5MVi.",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When is a word in&nbsp;<b>base form</b>?",
+                        "If is has <b>no inflections</b> and is <b>not a variant form</b>.",
+                        "<div><u>Examples</u>:</div><div>am, are, is ---&gt; be</div><div>car, cars, car's, cars' ---&gt; car</div><div>the boy's cars are different colors ---&gt; the boy car be different color</div>",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Linguistics"
+                    ],
+                    "guid": "t)Zi;@+zA~",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the&nbsp;<b>Porter's Stemmer</b>?",
+                        "The Porter stemming algorithm (or ‘Porter stemmer’) is a rule-based process for removing the commoner morphological and inflexional endings from words in English. Its main use is as part of a term normalisation process that is usually done when setting up Information Retrieval systems.<br>",
+                        "<img src=\"paste-2d69903949cb96b86957ee856a3a1f779f00d5e7.jpg\">",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "oBfPe31cLk",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which characters signal relatively <b>unambiguous</b> an sentence ending?",
+                        "Exclamation marks ! and question marks ?",
+                        "",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "lDlo7T<(}A",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which character is&nbsp;<b>ambiguous</b>&nbsp;in signaling&nbsp;an sentence ending?",
+                        "The period. It can be a sentence boundary, an abbreviation or a number.",
+                        "One could build a binary classifier (either hand-written rule-based, with regular expressions or machine-learning).<div><br><div><img src=\"paste-008994c27ffcb214d822cf62a44a1ecd1b776d6b.jpg\"><br></div></div>",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "IQzldE~c#}",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What method is needed in all those fields:<div>spell correction, computational biology, speech recognition</div>",
+                        "A metric to define string similarity.",
+                        "",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "H2%GQIEt_]",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the <b>Minimum Edit Distance</b>?",
+                        "The <b>minimum number</b> of editing operations using <b>insertion</b>, <b>deletion</b>, and <b>substitution</b>.",
+                        "<img src=\"paste-304b1d0a1ccdd7966b5f03df1aa0c52c4320122c.jpg\">",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "i5VS?3+<~{",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the <b>Levenshtein distance</b>&nbsp;and how is it related to edit distances?",
+                        "The Levenshtein distance is a particular <b>instance of an edit distance</b>, where the <b>operational costs</b> (insertion, deletion, substitution) are <b>uniformally</b> chosen.",
+                        "Costs can be modified when uniformal costs do not make sense (why should substitution cost 1, if it is basically deletion + insertion?)",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "O`h<_!Je_g",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is <b>Dynamic Programming</b>?",
+                        "<div><b>Dynamic programming</b>&nbsp;is a&nbsp;method that simplies a complicated problem by breaking it down into simpler sub-problems in a recursive manner&nbsp;<span style=\"color: rgb(32, 33, 34);\">and then recursively finding the optimal solutions to the sub-problems.</span></div>",
+                        "Problems need to have an&nbsp;<i>optimal substructure </i>in order to use dynamic programming.",
+                        "\"Natural Language Learning\" lecture by Georg Groh",
+                        "Computer Science"
+                    ],
+                    "guid": "s(==t>(.6A",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp",
+                        "todo"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "59ed61aa817b4fa6b17d192526d6aac4-oa-1",
+                        "How to fill up the hidden fields when using dynamic programming to calculate the edit distance?",
+                        "<img src=\"tmptfbbkqh7.png\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-1-Q.svg\" />",
+                        "Costs: <br />insertion = 1<br />deletion = 1<br />substitution = 2",
+                        "<img src=\"paste-c85082d06ab3f6b79dab205d9c9cf412d706bba4.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-1-A.svg\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-O.svg\" />"
+                    ],
+                    "guid": "Qc.RG]|q.u",
+                    "note_model_uuid": "b9c5537c-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "59ed61aa817b4fa6b17d192526d6aac4-oa-2",
+                        "How to fill up the hidden fields when using dynamic programming to calculate the edit distance?",
+                        "<img src=\"tmptfbbkqh7.png\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-2-Q.svg\" />",
+                        "Costs: <br />insertion = 1<br />deletion = 1<br />substitution = 2",
+                        "<img src=\"paste-c85082d06ab3f6b79dab205d9c9cf412d706bba4.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-2-A.svg\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-O.svg\" />"
+                    ],
+                    "guid": "o<S|?Nl5Fe",
+                    "note_model_uuid": "b9c5537c-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "59ed61aa817b4fa6b17d192526d6aac4-oa-3",
+                        "How to fill up the hidden fields when using dynamic programming to calculate the edit distance?",
+                        "<img src=\"tmptfbbkqh7.png\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-3-Q.svg\" />",
+                        "Costs: <br />insertion = 1<br />deletion = 1<br />substitution = 2",
+                        "<img src=\"paste-c85082d06ab3f6b79dab205d9c9cf412d706bba4.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-3-A.svg\" />",
+                        "<img src=\"59ed61aa817b4fa6b17d192526d6aac4-oa-O.svg\" />"
+                    ],
+                    "guid": "B`H?T`*=%]",
+                    "note_model_uuid": "b9c5537c-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How to find the<b> optimal alignment</b>&nbsp;when using the dynamic programming approach for the edit distance?<div><img src=\"paste-44e78aae7fc107f446c3ca772fcbc2750ae61de7.jpg\"><br></div>",
+                        "<div>Reconstruct <b>non-decreasing path through the matrix </b>(backtrace).</div><img src=\"paste-abbfdccc78e54ea96b8a3e9da22c33491849c6cf.jpg\">",
+                        "Remember in each step \"where we came from\".",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "O}#CLDb<Q)",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the optimal alignment for the following matrix:<div><img src=\"paste-122faa7a7af7b4d185332bd9b18688c49f32cb1c.jpg\"><br></div>",
+                        "<img src=\"paste-37613eeb0b021cc31a0cd7634699e7dc43268fe2.jpg\">",
+                        "Row word: Source<div>Column word: Target</div><div>Walking downwards: deletion</div><div>Walking right: insertion</div><div>Walking diagonal: substitution</div>",
+                        "\"Natural Language Processing\" lecture by Georg Groh",
+                        "Natural Language Processing"
+                    ],
+                    "guid": "eaa[]?O#M=",
+                    "note_model_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
+                    "tags": [
+                        "nlp"
                     ]
                 }
             ]
         }
     ],
-    "crowdanki_uuid": "754c41a2-1d5a-11eb-9592-1c1bb5464e43",
-    "deck_config_uuid": "754c4724-1d5a-11eb-9592-1c1bb5464e43",
+    "crowdanki_uuid": "b9bf3ea6-1e96-11eb-85f2-1c1bb5464e43",
+    "deck_config_uuid": "b9bf4bee-1e96-11eb-85f2-1c1bb5464e43",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
@@ -329,7 +868,7 @@
             "autoAlert": 0,
             "autoAnswer": 0,
             "autoplay": true,
-            "crowdanki_uuid": "754c4724-1d5a-11eb-9592-1c1bb5464e43",
+            "crowdanki_uuid": "b9bf4bee-1e96-11eb-85f2-1c1bb5464e43",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -356,7 +895,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 5
+                "perDay": 15
             },
             "replayq": true,
             "rev": {
@@ -375,7 +914,7 @@
             "autoAlert": 0,
             "autoAnswer": 0,
             "autoplay": true,
-            "crowdanki_uuid": "754e7b3e-1d5a-11eb-9592-1c1bb5464e43",
+            "crowdanki_uuid": "b9c1df4e-1e96-11eb-85f2-1c1bb5464e43",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -402,7 +941,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 5
+                "perDay": 15
             },
             "replayq": true,
             "rev": {
@@ -426,7 +965,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "4f36b394-1d5a-11eb-91cb-1c1bb5464e43",
+            "crowdanki_uuid": "b9c44018-1e96-11eb-85f2-1c1bb5464e43",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -450,7 +989,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Linux Libertine",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "Notes",
                     "ord": 2,
@@ -494,7 +1033,6 @@
             ],
             "sortf": 0,
             "tags": [
-                "regex",
                 "nlp"
             ],
             "tmpls": [
@@ -508,6 +1046,328 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}\n<hr>\n<small>{{Context}}</small>\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9c4ad14-1e96-11eb-85f2-1c1bb5464e43",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Notes",
+                    "ord": 2,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Context",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "NoteReversed",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        4
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "nlp"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n<br>\n<small>{{Context}}</small>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}\n<br>\n<small>{{Context}}</small>",
+                    "scratchPad": false
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9c4ce5c-1e96-11eb-85f2-1c1bb5464e43",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Notes",
+                    "ord": 1,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Context",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "NoteCloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "nlp"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n\n<hr>\n\n{{#Notes}} \n<strong> Notes: </strong>\n<br>\n{{Notes}} \n<hr> \n{{/Notes}}\n\n<strong>Source</strong>: {{Source}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n<hr>\n<strong>Context:</strong> {{Context}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9c5537c-1e96-11eb-85f2-1c1bb5464e43",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n.card.night_mode {\n color: black;\n background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0,
